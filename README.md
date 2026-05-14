@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**ho3einabdoli22-collab/ho3einabdoli22-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 سلام، خوش اومدی!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+من حسین هستم  
+Trader | Crypto Analyst | Freelancer
+
+## 🔥 تخصص‌ها
+- تحلیل تکنیکال ارزهای دیجیتال
+- ترید اسپات و فیوچرز
+- مدیریت ریسک و سرمایه  
+- ساخت ربات‌های معاملاتی (Python / API)
+- استراتژی‌های بازار مالی
+
+## 🛠 مهارت‌ها
+- Python (API, Bots)
+- TradingView (Pine Script)
+- Git / GitHub
+- Market Analysis  
+- Web3 Basics
+
+## 📊 پروژه‌ها
+به‌زودی تحلیل‌ها، ربات‌ها و اسکریپت‌های ترید اینجا قرار می‌گیرند.
+
+## 📬 راه ارتباطی  
+Email: ho3einabdoli22@gmail.com
